@@ -1,7 +1,7 @@
 # Final-Project_MattLee_ML
-This project uses different classifiers to examine the factors that most influence whether a high school students in Portugal wants to achieve higher education.
+This project uses different classification models to examine Portuguese high school student performance. The main goal of this project was to find the features that most influence whether a student plans to acheive higher education and compare a breadth of classification models to find the optimal algorithm. This project was completed as a final project for my Machine Learning class at university.
 
 # Setup
 <li> Clone this repository </li>
-<li> Use Jupyter Notebook to run this code </li>
+<li> Use Jupyter Notebook to run this code. For your convenience, the cells have already been run. </li>
 
